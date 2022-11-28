@@ -1,2 +1,3 @@
 Marks for Ram
-Math:88
+Math:88 
+Science:55

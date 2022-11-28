@@ -1,0 +1,4 @@
+ Marks
+ Math marks=80
+Science marks=77
+
