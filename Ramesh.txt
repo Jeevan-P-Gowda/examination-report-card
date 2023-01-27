@@ -1,3 +1,4 @@
 Marks
  Math marks=75
 Science Marks=99
+Kannada Marks=100
